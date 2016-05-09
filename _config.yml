@@ -1,0 +1,28 @@
+name: Joan Daniel Lillo
+favicon: null
+layout_spectrum: 0.8961151479743421
+typography_spectrum: 0.8223580427002162
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3464369534049183
+  lightness: 0.4591640199068934
+  saturation: 0.6098755095154047
+  rhythmicContrast: 0.9612744487822056
+purpose: []
